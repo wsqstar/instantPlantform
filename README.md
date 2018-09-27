@@ -12,4 +12,7 @@ Services are provided by the application server.
 
 采用爬虫服务器组按照随机组合策略爬取，确保爬虫的随机性以及完备性，保证爬虫ip的健康值，在使用特定策略维持，保证信息及时性、完整性以及爬虫ip的健康值。爬虫信息及时存入缓存服务器。由应用服务器提供服务。
  ![image](https://github.com/wsqstar/instantPlantform/blob/master/pic/%E5%8D%B3%E5%88%BB.png)
+## References
+表白墙项目
+http://love.ly522.cn/
 
